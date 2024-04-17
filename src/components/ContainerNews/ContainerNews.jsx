@@ -24,6 +24,7 @@ export const ContainerNews = () => {
                             <p>{news.description}</p>
                         </div>
                     </div>
+                    
                 )
             }
         </div>
