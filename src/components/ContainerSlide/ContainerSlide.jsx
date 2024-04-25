@@ -18,7 +18,7 @@ export const ContainerSlide = () => {
   return (
     <>
       <div className="w-full h-full mt-2 mb-2 overflow-hidden flex justify-center">
-        <div className="w-4/5">
+        <div className="w-2/4">
           <div className="overflow-hidden relative">
             <div
               className="flex transition-transform ease-out duration-1000"
