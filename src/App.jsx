@@ -14,10 +14,8 @@ function App() {
 
     <Home>
       <Header/>
-      <hr></hr>
       <Main>
         <ContainerNews/>
-        <hr></hr>
         <ContainerSlide />
       </Main>
     </Home>

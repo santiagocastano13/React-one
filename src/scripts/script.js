@@ -1,28 +1,26 @@
-import new1 from '../assets/noticia-will.jpg';
-import new2 from '../assets/noticia-harley.jpg';
-import new3 from '../assets/noticia-matrix.jpg';
+import new1 from '../assets/mario.avif';
+import new2 from '../assets/baldurs.jpg';
+import new3 from '../assets/zelda.avif';
 
 
 export const news = [
     {
         id:1, 
         img: new1,
-        date: '15/04/2024',
-        title: 'Will Smith sorprende a Coachella con la actuación de "Hombres de Negro"', 
-        description:'El actor y músico hizo una aparición durante la noche de este domingo en la actuación de J Balvin en el festival de música, cantando su éxito de 1997 "Men in Black", de la película del mismo nombre.'
+        title: 'Super Mario Bros. Wonder', 
+        description:'Super Mario Bros. Wonder es un ejercicio de reinvención total por parte de Nintendo. Se despoja de la etiqueta New para encontrar un nuevo camino en base a la sorpresa, al descubrimiento. Hay mucho del aprendizaje de Mario en las 3D aquí presente.'
     },
     {
         id:2,
         img: new2,
-        date: '15/04/2024',
-        title: 'La Harley Quinn de Lady Gaga hace que el Joker de Joaquin Phoenix se sienta menos "solo" en el primer tráiler de "Folie à Deux"',description: 'Lady Gaga hace su tan esperado debut como Harley Quinn junto a la reaparición de Joaquin Phoenix en el papel de su oscarizado Joker en el primer tráiler de "Joker: Folie à Deux".'
+        title: 'Baldurs Ganador A los Game of the Year',
+        description: '2023 ha sido un año para el recuerdo, según las nominaciones capitaneado por Alan Wake 2 y Baldur’s Gate 3, quienes se batirán el cobre y son los favoritos con 8 candidaturas cada uno. Pero son muchos otros los que repiten en varias categorías de estos premios GOTY (Game of the Year)'
     },
     {
         id:3,
         img: new3,
-        date: '15/04/2024',
-        title: 'Hay una quinta película de "Matrix" en camino, dice el estudio cinematográfico de la franquicia',
-        description: 'La celebrada franquicia cinematográfica "Matrix" se ampliará con una próxima quinta entrega.',
+        title: 'The Legend of Zelda: Tears of the Kingdom',
+        description: 'The Legend of Zelda: Tears of the Kingdom podría haber sido un más y mejor de manual, manteniendo todo aquello que hizo grande a su predecesor, añadiendo algunas novedades y cediendo ante peticiones que se han hecho durante estos años de parte de la comunidad. ',
     },
 
 ];

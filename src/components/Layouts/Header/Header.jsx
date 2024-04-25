@@ -2,9 +2,9 @@ import React from 'react'
 
 export const Header = () => {
   return (
-    <div className='w-full h-20 text-white flex justify-center items-center bg-black'>
+    <div className='w-full h-20 flex justify-center items-center text-white border-b border-white'>
         <h1 className='text-2xl'>
-            Titulo Pagina
+            Blog De Santiago
         </h1>
     </div>
   )
